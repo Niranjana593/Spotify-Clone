@@ -216,7 +216,7 @@ async function main() {
         else {
             e.target.src = "svg/volume.svg"
            document.querySelector(".input").value=45;
-            currSong.volume = 45;
+            currSong.volume = 45/100;
         }
     }
     )
