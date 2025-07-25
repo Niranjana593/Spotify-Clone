@@ -1,0 +1,16 @@
+.border{
+    /* border: 2px solid red; */
+    margin:5px;
+}
+.bg-grey{
+     background-color:#2a2a2a;
+}
+.bg-black{
+    background-color: black;
+}
+.invert{
+    filter: invert(1);
+}
+.m-1{
+    margin:10px;
+}
