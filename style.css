@@ -307,7 +307,7 @@ button:hover {
 }
 .seekbar {
     height: 6px;
-    background: #4d4d4d;
+    background: #b1adad;
     position: absolute;
     width: 96%;
     bottom: 4px;
@@ -317,7 +317,7 @@ button:hover {
     height: 13px;
     width: 13px;
     border-radius: 50%;
-    background-color: #2c6a9e;
+    background-color: #f10c0c;
     position: relative;
     bottom: 9px;
     left: 0%;
@@ -325,7 +325,7 @@ button:hover {
 }
 .slider {
     width: 0%;
-    background-color: #18b0ae;
+    background-color: #f10c0c;
     height: 100%;
     transition: width 0.3s;
 }
